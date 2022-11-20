@@ -4,13 +4,13 @@
 }
 body {
   
-  background-image: url("/pokedex/assets/img/background-tema-claro.gif");
+  background-image: url("https://th.bing.com/th/id/R.7d68abd537942d95ac5b2cbb53ed3cf0?rik=GV%2btJJCVIx1i7Q&riu=http%3a%2f%2forig12.deviantart.net%2fb4f8%2ff%2f2015%2f092%2f5%2fe%2fpokemon_sprite_gif___national_park__day__by_loupii-d79aauf.jpg&ehk=a1DU7EwcuHAq30E8M2xyqt3PDlpJd%2fCTNj8khzzqJAc%3d&risl=&pid=ImgRaw&r=0");
     background-size: cover;
 }
 .content {
     width: 100vw;
     padding: 1rem;
-    background-image: url("/pokedex/assets/img/pokemons-dia-ensolarado.gif");
+    background-image: url("https://th.bing.com/th/id/R.2a774d34ddacf4a4b049721da7e1fe7f?rik=Pt7KGhd2vzGrQQ&riu=http%3a%2f%2fimg.gawkerassets.com%2fimg%2f18z8e43dp0082gif%2foriginal.gif&ehk=wwcfQ3k%2fVHPxc7bkB1baEOrQngkuBuBDCNOrAFwVu5k%3d&risl=&pid=ImgRaw&r=0");
     background-size: cover;
     height: 100vh;
 }
@@ -40,11 +40,11 @@ text-decoration: none;
     border:none;
   }
   .dark {
-    background: url("/pokedex/assets/img/background-tema-escuro.gif");
+    background: url("https://thumbs.gfycat.com/HugeVengefulAmericanbittern-max-1mb.gif");
     background-size: cover;
   }
   .dark .content {
-    background: url("/pokedex/assets/img/cachoeira-noite.gif");
+    background: url("https://i.pinimg.com/originals/61/af/12/61af12d5fb3c469039dbdf63d783c95d.gif");
     background-size: cover;
     color: rgb(248, 16, 217);
   }
