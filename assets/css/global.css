@@ -33,11 +33,11 @@ text-decoration: none;
 .tema button {
     align-self: flex-end;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 1.5rem;
     padding: 4px 8px;
-    background-image: linear-gradient(140deg, rgb(163, 145, 140) 0%, rgb(164, 106, 182) 50%, rgb(168, 10, 241) 75%);
+    background-image: linear-gradient(140deg, rgb(5, 5, 5) 0%, rgb(99, 67, 114) 50%, rgb(255, 251, 0) 75%);
     border-radius: 1rem;
-    border: 2px solid #111111;
+    border:none;
   }
   .dark {
     background: url("/pokedex/assets/img/background-tema-escuro.gif");
